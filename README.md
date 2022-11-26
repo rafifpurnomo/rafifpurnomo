@@ -7,7 +7,7 @@
 
 Email : <a>rafif.purnomo@gmail.com</a> 
 
-Instagram <a href="https://www.instagram.com/mrffap/">@mrffap</a>
+Instagram : <a href="https://www.instagram.com/mrffap/">@mrffap</a>
 
 <!---
 rafifpurnomo/rafifpurnomo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
