@@ -1,7 +1,7 @@
 <h2> About Me </h2>
 <p>👋 Hi, I’m Rafif Purnomo, Student in Bandung, Indonesia.</p>
 <p>👀 I’m interested in Software Engginering</p>
-<p>📚 I’m currently learning Web and Android Development.</p>
+<p>📚 Currently I'm studying Web Development especially in front end development.</p>
 
 <h2>How To Contact Me?</h2>
 
