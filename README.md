@@ -1,6 +1,10 @@
 <div align="center">
-  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamxoZ3BvOGkycnRnYjlsY21vbThnd3o1ZnhsYzltYTM1NXM0b283MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BYG86QlGgaHvy/giphy.gif"  />
+  <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RpM2V0dzBtdG9mYzNpbGFjd3lxNXBwaXJyNWNiNzh6NzJ3ZGV6MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTiIzJSKB4l7xTouE8/giphy.gif"  />
 </div>
+
+###
+
+<h1 align="center">hey there 👋</h1>
 
 ###
 
@@ -15,17 +19,13 @@
 
 ###
 
-<div align="center">
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=rafifpurnomo.rafifpurnomo&"  />
 </div>
-
-###
-
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -54,11 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
-</div>
-
+# 💻 Tech Stack:
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ###
