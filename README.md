@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">hey there</h1>
 
 ###
 
@@ -19,7 +19,7 @@
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">About Me</h3>
 
 ###
 
@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">Hello! My name is Rafif Purnomo, and I am a Software Engineer in front-end web development with over 2 years of experience in the industry. I have a deep passion for web development and am always keen to create engaging and responsive user interfaces. As a software engineer, I am required to think critically, solve problems, and stay updated with the digital world.</p>
+<p align="left">Hello! My name is Rafif Purnomo. I am a Bachelor's degree student in Software Engineering at Telkom University. I focus on backend development and I am also interested in creating user interfaces that are attractive and responsive. As a software engineer, I need to think critically, solve problems, and always keep up with the latest developments in the digital world.</p>
 
 ###
 
